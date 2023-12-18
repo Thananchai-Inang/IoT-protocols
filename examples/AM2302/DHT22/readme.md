@@ -1,0 +1,1 @@
+from : https://www.cybertice.com/product/673/dht22-am2302-เซ็นเซอร์วัดอุณหภูมิและความชื้น-digital-temperature-and-humidity-sensor
