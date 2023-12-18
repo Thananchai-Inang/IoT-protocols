@@ -43,6 +43,6 @@ Serial.print("\t\t");
 
 Serial.println(dht.toFahrenheit(temperature), 1);
 
-delay(1000);
+delay(200);
 
 }
